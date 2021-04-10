@@ -18,6 +18,22 @@ rss: rss
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
+# Cryptocurrency Related
+crypto_address_xtz: "tz1yourAddressHere"
+hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1yourAddressHere"
+
+# Collections
+collections:
+  primary:
+    output: true
+    sort_by: list_priority
+  secondary:
+    output: true
+    sort_by: list_priority
+  unlisted:
+    output: true
+    sort_by: list_priority
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
